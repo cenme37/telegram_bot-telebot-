@@ -15,7 +15,7 @@
 ## Как запустить проект:
 - Клонирование репозитория в командной строке
 
-`git clone https://github.com/cenme37/tree_menu.git`
+`git clone https://github.com/cenme37/telegram_bot-telebot-.git`
 
 - Cоздать и активировать виртуальное окружение:
 
